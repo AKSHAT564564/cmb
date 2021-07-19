@@ -192,7 +192,7 @@ Testimaonials css start
 }
 .card {
   margin: 0 0.5em;
-  box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+  box-shadow: 2px 6px 8px 1px rgba(22, 22, 26, 0.18);
   border: none;
   border-radius: 0;
 }
@@ -216,6 +216,24 @@ Testimaonials css start
 
 
 
+
+#button-addon1 {
+  color: #ffc371;
+}
+
+i {
+  color: #ffc371;
+}
+
+.form-control::placeholder {
+  font-size: 0.95rem;
+  color: #aaa;
+  font-style: italic;
+}
+
+.form-control.shadow-0:focus {
+  box-shadow: none;
+}
 
 /*
 testimanials css end 
