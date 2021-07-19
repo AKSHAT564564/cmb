@@ -80,5 +80,22 @@
     border-radius: 15px;
     font-weight: 600;
 }
+.section-4{
+    width: 80%;
 
+}
+.client-image{
+    height: 350px;
+    width:100%;
+}
+.data-col{
+     columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  list-style-type: none;
+  padding-left: 1em;
+}
+.icon-sec4{
+    padding-right: 1em;
+}
 
