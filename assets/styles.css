@@ -26,91 +26,17 @@ input[type=submit]:hover {
 
 /* Add a background color and some padding around the form */
 
-/*.top-banner{
+.top-banner{
 	background-image: url('../img/banner.jpg');
 	background-repeat: no-repeat;
-	background-size: ;
-	padding: 20px 0;
-	min-height: 600px;
-	background-position: center;
-}
-.top-contact {
-    max-width: 500px;
-    margin: 60px 0 0;
-}
-.top-contact .contact-form{
-	padding: 20px;
-    margin: 0 20px;
-    background: rgb(132 132 132 / 80%);
-}
-.top-contact h4 {
-    background: #0a0a0a;
-    padding: 10px 20px;
-    color: #fff;
-    margin-bottom: 0;
-    position: relative;
-}
-.top-contact h4:before {
-    content: "";
-    width: 0px;
-    height: 0px;
-    border-style: solid;
-    border-width: 20px 20px 0 0;
-    border-color: #0a0a0a transparent transparent transparent;
-    float: left;
-    position: relative;
-    top: 35px;
-    right: -460px;
-}
-.top-contact h4:after {
-    content: "";
-    width: 0px;
-    height: 0px;
-    border-style: solid;
-    border-width: 0 20px 20px 0;
-    border-color: transparent #0a0a0a transparent transparent;
-    float: left;
-    position: relative;
-    top: 35px;
-    left: -40px;
-}
-.top-contact h4 i{    font-size: 36px;
-    position: relative;
-    top: 5px;
-    margin-right: 5px;
-    line-height: 0;}
-.top-contact .contact-form .form-group .form-control{
-	border-color: #0a0a0a;border-radius: 10px;padding-left: 40px;position: relative;
-}
-.top-contact .contact-form .input-group .input-group-prepend .input-group-text{
-	border-top-left-radius: 10px;
-    border-bottom-left-radius: 10px;
-}
-.top-contact .contact-form .input-group .form-control{
-	border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-}
-.top-contact .contact-form .message:after {
-	content: "\ec6f";
-    font-family: IcoFont!important;
-    position: absolute;
-    top: 7px;
-    z-index: 9999;
-    left: 12px;
-    color: #495057;
-}
-.top-contact .contact-form .contact-btn{
-    background: #0a0a0a;
-    padding: 12px 50px 10px;
-    color: #fff;
-    text-transform: uppercase;
-    border-radius: 15px;
-    font-weight: 600;
-}*/
-.section-4{
-    width: 80%;
+	background-size:cover;
 
+	
+	
+	
 }
+
+
 .client-image{
     height: 350px;
     width:100%;
