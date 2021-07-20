@@ -5,6 +5,9 @@ i{
     padding-right: 1em;
 }
 
+.container-fluid{
+    max-width: 1520px;
+}
 
 @media (max-width: 768px) {
     .carousel-inner .carousel-item > div {
