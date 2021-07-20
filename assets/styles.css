@@ -1,3 +1,10 @@
+p{
+    font-size: 12px;
+}
+i{
+    padding-right: 1em;
+}
+
 
 @media (max-width: 768px) {
     .carousel-inner .carousel-item > div {
